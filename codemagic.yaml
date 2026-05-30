@@ -1,5 +1,5 @@
 workflows:
-  android-build:
+  android-workflow:
     name: Build Android APK
     environment:
       java: 17
