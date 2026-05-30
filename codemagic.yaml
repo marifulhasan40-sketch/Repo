@@ -3,7 +3,6 @@ workflows:
     name: Build Android APK
     environment:
       java: 17
-      android_sdk: 34
     scripts:
       - name: Build APK
         script: |
